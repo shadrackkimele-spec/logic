@@ -1,0 +1,17 @@
+void main(){
+    myFunc(){
+        print("hello world");
+    }
+    myFunc();
+
+    myFunc(){
+return "hello kim"
+    }
+    print(myFunc());
+
+    myFunc(){
+        return "yoh lee";
+    }
+    var thing=myFunc();
+    print(thing);
+}
