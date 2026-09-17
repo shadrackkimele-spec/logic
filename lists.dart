@@ -7,5 +7,5 @@ voidmain(){
   print("datetime:$datetime");
   print("attitude:$attitude");
   print("isAccurate:$isAccurate");
-  print("Next datetie measurement will be ${datetime+2}");
+  print("Next datetime measurement will be ${datetime+2}");
 }
