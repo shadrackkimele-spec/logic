@@ -1,4 +1,4 @@
-voidmain(){
+void main(){
   var name="cloud forecaster";
   int datetime=8;
   double attitude=11.4;
