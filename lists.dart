@@ -1,4 +1,4 @@
-voidmain(){
+void main(){
   var name="cloud forecaster";
   int datetime=8;
   double attitude=11.4;
@@ -7,5 +7,5 @@ voidmain(){
   print("datetime:$datetime");
   print("attitude:$attitude");
   print("isAccurate:$isAccurate");
-  print("Next datetie measurement will be ${datetime+2}");
+  print("Next datetime measurement will be ${datetime+2}");
 }
